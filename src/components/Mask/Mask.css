@@ -1,0 +1,11 @@
+.Mask{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    outline: 4px dashed grey;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    
+}

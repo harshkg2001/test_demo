@@ -1,0 +1,25 @@
+.TypeWriter{
+    height: 100%;
+    outline: 4px dashed grey;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: azure;
+    cursor: pointer;
+}
+
+.head{
+    font-style: italic;
+}
+
+.bottom{
+    font-size: larger;
+    font-weight: bold;
+}
+
+span{
+    color: rgb(255, 111, 0);
+}

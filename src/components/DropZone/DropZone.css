@@ -1,0 +1,31 @@
+.Dropzone{
+    height: 100%;
+    outline: 4px dashed grey;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: azure;
+    cursor: pointer;
+}
+
+.dropbox{
+    margin: 1rem;
+    height: 60%;
+    width: 40%;
+    outline: 2px dashed azure;
+    border-radius: 0.4rem;
+    font-size: smaller;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+}

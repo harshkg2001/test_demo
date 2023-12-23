@@ -1,0 +1,28 @@
+.Gradient{
+    height: 100%;
+    outline: 4px dashed grey;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: azure;
+    cursor: pointer;
+}
+
+.text{
+    background: linear-gradient(45deg, red, orange);
+    font-size: 100px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-clip: text;
+    color: transparent;
+}
+
+.style
+{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+}

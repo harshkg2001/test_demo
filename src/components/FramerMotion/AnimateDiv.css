@@ -1,0 +1,23 @@
+.Animate{
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    background-color: black;
+    cursor: pointer;
+    
+    position: fixed;
+    bottom: 0px;
+    overflow: hidden;
+
+    pointer-events: none;
+}
+
+.circle{
+    height: 30rem;
+    width: 30rem;
+    border-radius: 15rem;
+    background: linear-gradient(45deg, white, pink, purple);
+
+    position: absolute;
+    top: 100%;
+}

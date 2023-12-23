@@ -1,0 +1,13 @@
+.Anime{
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    background-color: black;
+    cursor: pointer;
+    
+    position: fixed;
+    bottom: 0px;
+    overflow: hidden;
+
+    pointer-events: none;
+}

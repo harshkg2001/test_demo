@@ -1,0 +1,27 @@
+.Hovermouse{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    cursor: pointer;
+    overflow-wrap: break-word;
+    overflow-y: hidden;
+}
+
+.string{
+    background-color: black;
+    color: black;
+}
+.string{
+    background-clip: text;
+    color: transparent;
+    /* color: azure; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    transform: translateY(10rem);
+    /* mask-image: radial-gradient(circle, black, transparent);
+    mask-clip: text; */
+}
